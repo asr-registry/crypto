@@ -1,4 +1,4 @@
-package af.gov.nsia.crypto.config;
+package af.asr.crypto.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

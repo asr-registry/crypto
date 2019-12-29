@@ -1,4 +1,4 @@
-## Crypto Library for Hashing Passwords and Data in Phoenix Platform
+## Crypto Library for Hashing Passwords and Data
 
 ### Features
 
